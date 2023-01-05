@@ -1,0 +1,83 @@
+{
+  "monday": {
+    "max": 1,
+    "min": -10,
+    "dailyForecast": {
+      "today0": -10,
+      "today1": -9,
+      "today2": -5,
+      "today3": -1,
+      "today4": 1,
+      "today5": 0,
+      "today6": -1,
+      "today7": -3,
+      "today8": -1
+    },
+    "generalStateToday": "sunny"
+  },
+  "tuesday": {
+    "max": 3,
+    "min": -2,
+    "dailyForecast": {
+      "today0": -1,
+      "today1": -2,
+      "today2": 0,
+      "today3": 3,
+      "today4": 2,
+      "today5": 0,
+      "today6": -1,
+      "today7": -2,
+      "today8": -3
+    },
+    "generalStateToday": "rainy"
+  },
+  "wednesday": {
+    "max": 5,
+    "min": -5,
+    "dailyForecast": {
+      "today0": -3,
+      "today1": -5,
+      "today2": -2,
+      "today3": 0,
+      "today4": 5,
+      "today5": 2,
+      "today6": 1,
+      "today7": -1,
+      "today8": 1
+    },
+    "generalStateToday": "cloudy"
+  },
+  "thursday": {
+    "max": 7,
+    "min": -3,
+    "dailyForecast": {
+      "today0": 1,
+      "today1": -2,
+      "today2": -3,
+      "today3": 0,
+      "today4": 7,
+      "today5": 4,
+      "today6": 2,
+      "today7": 0,
+      "today8": 3
+    },
+    "generalStateToday": "snowy"
+  },
+  "friday": {
+    "max": 11,
+    "min": 2,
+    "dailyForecast": {
+      "today0": 3,
+      "today1": 2,
+      "today2": 4,
+      "today3": 6,
+      "today4": 11,
+      "today5": 5,
+      "today6": 4,
+      "today7": 2,
+      "today8": 5
+
+    },
+    "generalStateToday": "snowy"
+  }
+}

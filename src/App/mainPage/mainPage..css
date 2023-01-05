@@ -1,0 +1,14 @@
+.mainPage{
+    padding: 2rem;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    min-width: 80vw;
+
+}
+.cardsLayout{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
